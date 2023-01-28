@@ -3,35 +3,38 @@
 }
 
 body {
-    background-color: rgb(185, 185, 185);
-    padding: 5%;
+    background-color: rgb(70, 145, 95);
 }
 
 #corpo {
-    width: 80%;
+    width: 60%;
     margin: auto;
     text-align: center;
     font-size: x-large;
+    margin-top: 5%;
 }
 
 .Pulsante {
     width: 100%;
-    margin: auto;
-    border: 2px solid black;
+    border: 6px double rgb(0, 75, 25);
     font-size: x-large;
+    margin-top: 5px;
+    background-color: rgb(120, 180, 105);
+    border-radius: 3px 3px 0 0;
 }
 
 .Pulsante:hover {
-    background-color: rgb(169, 169, 169);
+    background-color: rgb(100, 160, 85);
 }
 
 .Pannello {
-    background-color: white;
+    background-color: rgb(140, 180, 125);
     text-align: left;
-    border: 2px solid black;
+    border: 6px double rgb(0, 75, 25);
     padding: 2% 5%;
     border-top: 0;
     display: none;
+    border-radius: 0 0 3px 3px;
 }
 
 #Titolo {
