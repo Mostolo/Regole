@@ -40,3 +40,7 @@ body {
 #Titolo {
     padding: 1%;
 }
+
+.Dopo {
+    display: none;
+}
